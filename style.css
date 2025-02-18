@@ -1,0 +1,41 @@
+#title{
+    color: hotpink;
+    background-color: lightcyan;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+ }
+ .hr{
+    color: orange;
+ }
+ h4{
+    color: darkcyan; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ ul{
+    color:deeppink;
+ }
+ .article-1{
+    position: absolute;
+    font-size: 20px;
+ }
+ h1{
+    size: 100px;
+ }
+ .article-3{
+    position: absolute;
+    color: deeppink;
+ }
+ nav{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color:cornsilk;
+    color: darksalmon;
+ }
+ article{
+    color: deeppink;
+    font-family: 'Jazz LET', 'fantasy';
+ }
+ footer{
+    position: absolute;
+    text-align: center;
+ }
+ 

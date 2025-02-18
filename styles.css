@@ -1,0 +1,132 @@
+#title{
+    color: hotpink;
+    background-color: lightcyan;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    position: fixed;
+    top: 0px;
+}
+.div1{
+    background-color:lightcyan;
+    width: 1500px;
+}
+.hr{
+    color: orange;
+}
+h4{
+    color: darkcyan; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+ul{
+    color:lightcoral;
+}
+.article-1{
+    position: absolute;
+    right: 500px;
+    top: 490px;
+    font-size: 20px;
+    border: darkviolet, dotted, 5px; 
+    background-color: pink;
+    width: 500px;
+}
+h1{
+    size: 100px;
+}
+.article-3{
+    position: absolute;
+    top: 410px;
+    right: 300px;
+    color: lightcoral;
+    border: darkviolet, dotted, 5px; 
+    background-color: pink;
+}
+nav{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color:cornsilk;
+    color: darksalmon;
+}
+article{
+    color: lightcoral;
+    font-family: 'Jazz LET', 'fantasy';
+}
+footer{
+    position: absolute;
+    text-align: center;
+    right: 800px;
+
+}
+.div-1{
+
+    position: fixed;
+    left: 370px;
+    top: 350px;
+    width: 373px;
+    height: 55px;
+    text-align: center;
+    font-size: 50px;
+    border: mintcream, dotted, 5px; 
+    background-color: midnightblue;
+}
+.div-2{
+    background-color: midnightblue;
+    border: 5px dotted mintcream;
+    position: fixed;
+    top: 350px;
+    left: 0px;
+    width: 380px;
+    height: 55px;
+    text-align: center;
+    font-size: 50px;
+}
+.div-3{
+    background-color: midnightblue;
+    border: 5px dotted mintcream;
+    position: fixed;
+    top: 350px;
+    right: 380px;
+    width: 382px;
+    height: 55px;
+    text-align: center;
+    font-size: 50px;
+}.div-4{
+    background-color: midnightblue;
+    border: 5px dotted mintcream;
+    position: fixed;
+    top: 350px;
+    right: 0px;
+    width: 380px;
+    height: 55px;
+    text-align: center;
+    font-size: 50px;
+}
+div{
+    position: fixed;
+}
+.article4{
+    position: absolute;
+    bottom: 50px;
+    font-size: 20px;
+    width: 700px;
+    right: 400px;
+    text-align: center;
+    border: darkviolet, dotted, 5px; 
+    background-color: pink;
+}
+video{
+    position: absolute;
+    top: 500px;
+}
+img{
+    position: absolute;
+    top:450px;
+    right: 0px;
+}
+.article-2{
+    position: absolute;
+    top: 420px;
+    right:450px;
+    border: darkviolet, dotted, 5px; 
+    background-color: pink;
+}

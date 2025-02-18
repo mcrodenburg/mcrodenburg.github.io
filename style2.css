@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li{
+    display: inline;
+    border: 1px solid black;
+    padding: 7px;
+    color: white;
+    background-color: black;
+}
+a{
+    color: white;
+    display: inline;
+    padding: 8px;
+    background-color: #dddddd;
+    
+}
